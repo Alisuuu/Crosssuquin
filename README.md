@@ -35,4 +35,3 @@ Agora está tudo pronto. O funcionamento é simples:
 ### Solução de problemas
 * **Não achei o botão:** Certifique-se de procurar pelo *nome do addon* específico na lista de edição das configurações rápidas.
 * **O botão não funciona:** Verifique se a permissão de sobreposição foi concedida corretamente nas configurações do Android.
-* 
