@@ -44,3 +44,5 @@ Com os botões na barra, é só jogar:
 * **O botão não faz nada:** Verifique se a permissão de sobreposição foi concedida.
 * **Não acho opções de ajuste:** Isso é intencional. O addon é fixo para garantir que não haja queda de FPS ou lag durante o uso.
 * contato:alisonmelo9523@gmail.com
+### Visitors
+![Visitas at SetBox](https://visitor-badge.laobi.icu/badge?page_id=Alisuuu/Crosssuquin)
