@@ -1,5 +1,6 @@
 <img width="3464" height="3464" alt="1000708141" src="https://github.com/user-attachments/assets/4d2b91ef-61e5-4d34-9832-e375b8cb0770" />
 # Suquin Addons
+
 > ** Aviso:** Estes addons **não possuem ícone na tela inicial**. Eles funcionam exclusivamente através das **Configurações Rápidas** (Barra de Notificações).
 
 Os addons do Suquin são ferramentas diretas e leves para auxiliar na sua gameplay. Eles foram desenvolvidos para serem **simples** e de **alto desempenho**.
@@ -42,4 +43,4 @@ Com os botões na barra, é só jogar:
 ### Solução de Problemas
 * **O botão não faz nada:** Verifique se a permissão de sobreposição foi concedida.
 * **Não acho opções de ajuste:** Isso é intencional. O addon é fixo para garantir que não haja queda de FPS ou lag durante o uso.
-* contato: alisonmelo9523@gmail.com
+* contato:alisonmelo9523@gmail.com
