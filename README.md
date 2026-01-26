@@ -9,7 +9,7 @@ Os addons do Suquin são ferramentas diretas e leves para auxiliar na sua gamepl
 
 * **Zero Configuração:** Não existem menus ou ajustes. Cada addon já vem calibrado para oferecer o melhor desempenho possível sem pesar no jogo.
 * **Modulares:** Você baixa apenas o que precisa.
-* **Uso Simultâneo:** Você pode ativar vários addons diferentes ao mesmo tempo (ex: usar uma retícula outras), bastando ativar os botões correspondentes.
+* **Uso Simultâneo:** Você pode ativar vários addons diferentes ao mesmo tempo (ex: usar uma retícula junto com outras), bastando ativar os botões correspondentes.
 
 ##  Instalação e Configuração
 
