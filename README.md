@@ -1,4 +1,3 @@
-<img width="3464" height="3464" alt="1000708141" src="https://github.com/user-attachments/assets/4d2b91ef-61e5-4d34-9832-e375b8cb0770" />
 # Suquin Addons
 
 > ** Aviso:** Estes addons **não possuem ícone na tela inicial**. Eles funcionam exclusivamente através das **Configurações Rápidas** (Barra de Notificações).
