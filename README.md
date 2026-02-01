@@ -7,7 +7,6 @@ Os addons do Suquin são ferramentas diretas e leves para auxiliar na sua gamepl
 ## Características Principais
 
 * **Zero Configuração:** Não existem menus ou ajustes. Cada addon já vem calibrado para oferecer o melhor desempenho possível sem pesar no jogo.
-* **Modulares:** Você baixa apenas o que precisa.
 * **Uso Simultâneo:** Você pode ativar vários addons diferentes ao mesmo tempo, bastando ativar os botões correspondentes.
 
 ##  Instalação e Configuração
@@ -17,7 +16,6 @@ Como não há interface de aplicativo, o processo é feito pela barra de status:
 ### 1. Adicione os Botões (Toggles)
 1.  Deslize a barra de notificações totalmente para baixo.
 2.  Toque no ícone de **Lápis** (Editar) para organizar os botões.
-3.  Procure pelo **nome do addon** que você instalou (eles aparecem separadamente na lista).
 4.  Arraste o botão para a área ativa (parte de cima).
     * *Repita isso para cada addon que você tiver instalado.*
 
