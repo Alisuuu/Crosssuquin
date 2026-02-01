@@ -42,6 +42,7 @@ Com os botões na barra, é só jogar:
 ### Solução de Problemas
 * **O botão não faz nada:** Verifique se a permissão de sobreposição foi concedida.
 * **Não acho opções de ajuste:** Isso é intencional. O addon é fixo para garantir que não haja queda de FPS ou lag durante o uso.
+* compatibilidade Android 12+
 * contato:alisucodm@gmail.com
 ###
 ![Visitas at SetBox](https://visitor-badge.laobi.icu/badge?page_id=Alisuuu/Crosssuquin)
