@@ -1,4 +1,4 @@
-# Suquin Addons
+# CrossS
 
 > ** Aviso:** Este app **não possuei ícone na tela inicial**. Ele funcionam exclusivamente através das **Configurações Rápidas** (Barra de Notificações).
 
