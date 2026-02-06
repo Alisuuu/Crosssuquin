@@ -1,4 +1,5 @@
-CrossS
+<h1 align="center">CrossS</h1>
+
 
 > **Aviso:** Este aplicativo **não possui ícone na tela inicial**.
 > O CrossS funciona **exclusivamente através das Configurações Rápidas** (barra de notificações).
