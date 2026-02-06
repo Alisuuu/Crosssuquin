@@ -49,7 +49,8 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 ---
 
 ### Overlay de Monitor
-<img width="2086" height="1080" alt="1000928331" src="https://github.com/user-attachments/assets/400da8b1-c15e-46b2-a695-0c08d3686225" />
+<img width="4096" height="2232" alt="1000928335" src="https://github.com/user-attachments/assets/e498f397-b8ca-412f-a4de-3a6413469a58" />
+
 
 
 
