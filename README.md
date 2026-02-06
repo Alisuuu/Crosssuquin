@@ -46,6 +46,8 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 ---
 
 ### Overlay de Monitor
+<img width="2400" height="594" alt="1000927093" src="https://github.com/user-attachments/assets/8086463e-0cfb-438a-bddf-68461d84d78a" />
+
 
 Exibe informações em tempo real sobre o sistema:
 
@@ -63,8 +65,7 @@ Exibe informações em tempo real sobre o sistema:
 
 ---
 
-### Módulo <img width="2400" height="594" alt="1000927093" src="https://github.com/user-attachments/assets/32f59938-182d-40e9-b018-319a956f4b32" />
-SpeedZ
+### Módulo SpeedZ
 
 * Otimizações focadas em desempenho e responsividade
 * Requer Shizuku para funcionamento
