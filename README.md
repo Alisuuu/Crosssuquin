@@ -1,5 +1,4 @@
-<h1 align="center">CrossS</h1>
-
+<img width="3464" height="3464" alt="1000927095" src="https://github.com/user-attachments/assets/656a5334-f0fd-4ea2-888d-da6d23185baf" />
 
 > **Aviso:** Este aplicativo **não possui ícone na tela inicial**.
 > O CrossS funciona **exclusivamente através das Configurações Rápidas** (barra de notificações).
