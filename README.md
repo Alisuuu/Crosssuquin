@@ -71,7 +71,7 @@ Exibe informações em tempo real sobre o sistema:
 
 ---
 
-### Módulo SpeedZ
+### Módulo SpeedZ (para smartphones xiaomi)
 
 * Otimizações focadas em desempenho e responsividade
 * Requer Shizuku para funcionamento
