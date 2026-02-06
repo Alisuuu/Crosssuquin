@@ -63,7 +63,7 @@ Exibe informações em tempo real sobre o sistema:
 
 ---
 
-### Botão DNS Gamer
+### Botão DNS
 
 * Define automaticamente o DNS Cloudflare (1.1.1.1)
 * Pode melhorar ping e estabilidade de conexão
