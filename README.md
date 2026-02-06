@@ -121,7 +121,7 @@ Como o aplicativo não possui interface, todo o processo é feito pelas Configur
 
 ---
 
-## Contato
+## Contato para sugestões
 
 * Email: [alisucodm@gmail.com](mailto:alisucodm@gmail.com)
 
