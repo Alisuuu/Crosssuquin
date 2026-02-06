@@ -21,7 +21,8 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 ## Funcionalidades
 
 ### Retículas (Overlay)
-<img width="1080" height="1082" alt="1000927097" src="https://github.com/user-attachments/assets/a81bc66e-7294-410a-8f6e-77d5f6092f3f" />
+<img width="1080" height="1082" alt="1000928329" src="https://github.com/user-attachments/assets/3d68c895-71a7-4458-b0be-aeb8449a72f5" />
+
 
 
 * Retículas de **5 armas Míticas do Call of Duty Mobile (mira de ferro)**
@@ -48,7 +49,8 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 ---
 
 ### Overlay de Monitor
-<img width="1080" height="1082" alt="1000928329" src="https://github.com/user-attachments/assets/ae7b6026-8fca-4b7a-b1a5-59a14a560de1" />
+<img width="2400" height="594" alt="1000927093" src="https://github.com/user-attachments/assets/4a367615-2491-4d2b-8e14-18ab098d4575" />
+
 
 
 
