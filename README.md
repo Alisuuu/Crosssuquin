@@ -106,7 +106,7 @@ Como o aplicativo não possui interface, todo o processo é feito pelas Configur
 ## Compatibilidade
 
 * Android 12 ou superior
-
+* versão do shizuku que eu recomendo, a função cão de guarda te faz instalar e esquecer: https://github.com/thedjchi/Shizuku/releases
 ---
 
 ## Desinstalação
