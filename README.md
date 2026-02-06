@@ -57,7 +57,7 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 
 Exibe informações em tempo real sobre o sistema:
 
-* FPS (requer Shizuku)
+* Real FPS (requer Shizuku)
 * Temperatura (não requer Shizuku)
 * RAM livre (não requer Shizuku)
 
