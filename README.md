@@ -1,4 +1,4 @@
-Perfeito. Aqui # CrossS
+CrossS
 
 > **Aviso:** Este aplicativo **não possui ícone na tela inicial**.
 > O CrossS funciona **exclusivamente através das Configurações Rápidas** (barra de notificações).
