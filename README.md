@@ -1,4 +1,5 @@
-<img width="3464" height="3464" alt="1000927095" src="https://github.com/user-attachments/assets/656a5334-f0fd-4ea2-888d-da6d23185baf" />
+<img width="3464" height="3464" alt="1000927089" src="https://github.com/user-attachments/assets/3ce9ba0c-c3e2-4317-b352-228475b7e8ed" />
+
 
 > **Aviso:** Este aplicativo **não possui ícone na tela inicial**.
 > O CrossS funciona **exclusivamente através das Configurações Rápidas** (barra de notificações).
@@ -44,7 +45,7 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 
 ---
 
-### Overlay de Monitor (Estilo Smartphones Gamer)
+### Overlay de Monitor
 
 Exibe informações em tempo real sobre o sistema:
 
@@ -62,7 +63,8 @@ Exibe informações em tempo real sobre o sistema:
 
 ---
 
-### Módulo SpeedZ
+### Módulo <img width="2400" height="594" alt="1000927093" src="https://github.com/user-attachments/assets/32f59938-182d-40e9-b018-319a956f4b32" />
+SpeedZ
 
 * Otimizações focadas em desempenho e responsividade
 * Requer Shizuku para funcionamento
