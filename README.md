@@ -1,3 +1,4 @@
+<img width="3464" height="3464" alt="1000927095" src="https://github.com/user-attachments/assets/bc43857b-0144-4566-a0a4-d3dd9469b263" />
 # CrossS
 
 > ** Aviso:** Este app **não possuei ícone na tela inicial**. Ele funcionam exclusivamente através das **Configurações Rápidas** (Barra de Notificações).
