@@ -45,7 +45,7 @@ O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida
 * Libera memória ocupada por processos em segundo plano
 * Ajuda a manter o sistema estável durante o jogo
 * Requer Shizuku
-
+> **Aviso:** ele irá fechar o seu jogo se você inventar de limpar a ram quando estiver gravando ou fazendo live**
 ---
 
 ### Overlay de Monitor
