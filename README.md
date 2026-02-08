@@ -1,7 +1,7 @@
 <img width="3464" height="3464" alt="1000927089" src="https://github.com/user-attachments/assets/3ce9ba0c-c3e2-4317-b352-228475b7e8ed" />
 
 
-> **Aviso:** Este aplicativo **não possui ícone na tela inicial**.
+> **Aviso:** Este aplicativo **não possui ícone na tela inicial, force o reinicio do celular em caso de problemas, tudo q foi modificada ira sair**.
 > O CrossS funciona **exclusivamente através das Configurações Rápidas** (barra de notificações).
 
 O **CrossS** é uma ferramenta direta, leve e focada em desempenho, desenvolvida para auxiliar na gameplay sem causar queda de FPS ou instabilidade no sistema.
